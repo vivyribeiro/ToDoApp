@@ -10,7 +10,7 @@ Um App básico de lista de tarefas que possui a opção de adicionar, editar e e
 - [x] [ROOM](https://developer.android.com/training/data-storage/room)
 
 ### Telas
-<img src="assets/tela_inicial.png"/> <br>
-<img src="assets/tela_criar_tarefa.png"/> <br>
-<img src="assets/tela_lista_tarefa.png"/> <br>
-<img src="assets/tela_opções.png"/> <br>
+<img src="assets/tela_inicial.png" width="450px"/> <br>
+<img src="assets/tela_criar_tarefa.png" width="450px"/> <br>
+<img src="assets/tela_lista_tarefa.png" width="450px"/> <br>
+<img src="assets/tela_opções.png" width="450px"/> <br>
